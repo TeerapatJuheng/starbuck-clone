@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    align-items: center;
+}
+.nav{
+    align-items: center;
+}
